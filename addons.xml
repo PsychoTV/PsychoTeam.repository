@@ -57,11 +57,11 @@
 	</extension>
 </addon>
 
-<addon id="PsychoTeam.repository" name="The Best repository" version="0.0.2" provider-name="Mafarricos">
+<addon id="PsychoTeam.repository" name="The Best repository" version="0.0.3" provider-name="PsychoTV">
 	<extension point="xbmc.addon.repository" name="The Best Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/PsychoTeam.repository/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/PsychoTeam.repository/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Mafarricos/PsychoTeam.repository/master/repo/</datadir>
+		<info compressed="false">http://raw.github.com/PsychoTV/PsychoTeam.repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/PsychoTV/PsychoTeam.repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/PsychoTV/PsychoTeam.repository/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>The Best Addon</summary>
