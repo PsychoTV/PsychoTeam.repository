@@ -14,7 +14,7 @@ USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/
 base='www.PsychoTV.com'
 ADDON=xbmcaddon.Addon(id='plugin.video.PsychoWizard')
 dialog = xbmcgui.Dialog()    
-VERSION = "1.0.2"
+VERSION = "1.0.3"
 PATH = "PsychoWizard"            
 
     
