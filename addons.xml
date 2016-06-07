@@ -43,7 +43,7 @@
 
 <addon id="plugin.video.PsychoTV"
        name="[COLOR white][B]Psycho[/COLOR][COLOR lawngreen]TV[/B][/COLOR]"
-       version="0.0.5"
+       version="0.0.6"
        provider-name="Coelhon">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
